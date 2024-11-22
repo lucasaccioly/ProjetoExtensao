@@ -13,6 +13,9 @@ Figma
    
 Equipe:
 Lucas Luna Accioly
-Joao Victor Soares  
-Maria Eduarda Maia Santos  
+
+Joao Victor Soares
+
+Maria Eduarda Maia Santos
+
 Elionay Costa
